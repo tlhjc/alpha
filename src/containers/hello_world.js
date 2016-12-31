@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class HelloWorld extends Component {
   render() {
     return (
-      <div>Hello</div>
+      <div>Hello, test</div>
     );
   }
 }

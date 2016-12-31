@@ -5,7 +5,7 @@ var webpack = require('webpack');
 module.exports = {
   entry: {
     javascript: './src/index.js',
-    html: './src/index.html'
+    html: './public/index.html'
   },
   output: {
     filename: 'bundle.js',
