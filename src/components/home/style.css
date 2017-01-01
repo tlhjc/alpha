@@ -1,0 +1,11 @@
+body {
+  margin: 0 auto;
+}
+
+.container {
+  height: 100vh;
+  background-image: url('https://cloud.githubusercontent.com/assets/12450298/21582529/2b384298-d054-11e6-8a0a-05fe09ca1635.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 100%;
+}
