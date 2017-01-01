@@ -4,7 +4,6 @@ import rootReducer from '../reducers';
 import createLogger from 'redux-logger';
 import { routerMiddleware } from 'react-router-redux';
 import { hashHistory as history } from 'react-router';
-import { RECEIVE_SEARCH_RESULT } from '../constants/action_types.js';
 // import { history } from '../history/configure-history.js';
 
 const logger = createLogger();

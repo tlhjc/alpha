@@ -3,7 +3,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import App from './containers/app.js';
+import App from './containers/router.js';
 
 const rootElement = document.getElementById('container');
 
