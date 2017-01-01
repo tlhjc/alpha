@@ -1,0 +1,27 @@
+.trainingMethod {
+  display: inline-block;
+  border: 1px solid #CDCDCD;
+  padding: 0.2em;
+  width: 21%;
+  margin: 0.5em;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 1.5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 1.5em;
+}
+
+.trainingMethod:hover {
+  background-color: #37A996;
+  color: #ffffff;
+  border: 1px solid #37A996;
+}
+
+.trainingMethodContainer {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  top: ;
+  padding-top: 9em;
+}
