@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import Navbar from '../../../lib/navbar';
+import Trainers from '../../../lib/trainers';
 
 import './style.css';
 
@@ -17,11 +18,13 @@ componentWillMount () {
     this.props.getTrainingMethodData(method);
   }
   render() {
-    console.log('-------', this.props.method);
-    const method = this.props.location.pathname.split('/')[2];
+    const methodType = this.props.location.pathname.split('/')[2];
+    const trainers = this.props.method[0] ? this.props.method[0].trainers : [];
+    console.log('-------', trainers);
     return (
-      <div className="container">
-        <Navbar title={method} />
+      <div className="methodContainer">
+        <Navbar title={methodType} />
+        <Trainers trainers={trainers} />
       </div>
     );
   }

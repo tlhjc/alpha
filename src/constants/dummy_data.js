@@ -8,6 +8,39 @@ const data = [
         name: 'Rich Froning',
         followers: '850k',
         twitter: '@richfroning',
+        imageUrl: 'placeholder.com',
+        videos: [
+          {
+            url: 'example-workout.com',
+            tags: [
+              'hypertrophy',
+              'shoulders',
+              'arms'
+            ]
+          }
+        ]
+      },
+      {
+        name: 'Mich Froning',
+        followers: '850k',
+        twitter: '@richfroning',
+        imageUrl: 'placeholder.com',
+        videos: [
+          {
+            url: 'example-workout.com',
+            tags: [
+              'hypertrophy',
+              'shoulders',
+              'arms'
+            ]
+          }
+        ]
+      },
+      {
+        name: 'Tich Froning',
+        followers: '850k',
+        twitter: '@richfroning',
+        imageUrl: 'placeholder.com',
         videos: [
           {
             url: 'example-workout.com',
@@ -28,6 +61,7 @@ const data = [
         name: 'Mich Froning',
         followers: '850k',
         twitter: '@richfroning',
+        imageUrl: 'placeholder.com',
         videos: [
           {
             url: 'example-workout.com',
@@ -47,6 +81,8 @@ const data = [
         name: 'Tich Froning',
         followers: '850k',
         twitter: '@richfroning',
+        imageUrl: 'placeholder.com',
+
         videos: [
           {
             url: 'example-workout.com',
@@ -67,6 +103,7 @@ const data = [
         name: 'Pich Froning',
         followers: '850k',
         twitter: '@richfroning',
+        imageUrl: 'placeholder.com',
         videos: [
           {
             url: 'example-workout.com',

@@ -12,6 +12,7 @@ export const initialState = {
         name: '',
         followers: '',
         twitter: '',
+        imageUrl: '',
         videos: [
           {
             url: '',
