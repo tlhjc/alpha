@@ -6,8 +6,8 @@ import { routerActions } from 'react-router-redux';
 const Actions = {...MethodActions, ...routerActions};
 
 function mapStateToProps (state) {
-
-  return state;
+  const { method: { methodInView } } = state;
+  return { method: methodInView };
 }
 
 export default connect(mapStateToProps, Actions)(Method);
