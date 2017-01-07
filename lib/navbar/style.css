@@ -1,3 +1,10 @@
+.ftr {
+  position: absolute;
+  font-size: 3em;
+  top: 0.4em;
+  left: 0.5em;
+}
+
 .navbar {
   position: fixed;
   text-align: center;
@@ -5,4 +12,8 @@
   padding-top: 2em;
   border-bottom: 1px solid #F0F0F0;
   padding-bottom: 2em;
+}
+
+.title {
+  font-size: 1.5em;
 }

@@ -1,16 +1,15 @@
 import React, { Component } from 'react';
 
 import Navbar from '../../../lib/navbar';
-import TrainingMethods from '../../../lib/training_methods';
 
 import './style.css';
 
-export default class Home extends Component {
+export default class Method extends Component {
   render() {
+    const method = this.props.location.pathname.split('/')[2];
     return (
       <div className="container">
-        <Navbar title="holistic fitness" />
-        <TrainingMethods />
+        <Navbar title={method} />
       </div>
     );
   }

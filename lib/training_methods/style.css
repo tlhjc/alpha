@@ -1,13 +1,5 @@
-@font-face {
-    font-family: Hanken;
-    src: url('../../fonts/hanken-round.regular.ttf');
-}
-
-body {
-  font-family: Hanken;
-}
-
 .trainingMethod {
+  color: #000000;
   display: inline-block;
   border: 1px solid #CDCDCD;
   padding: 0.2em;
