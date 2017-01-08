@@ -7,7 +7,7 @@ const data = [
       {
         name: 'Rich Froning',
         followers: '850k',
-        twitter: '@richfroning',
+        instagram: '@richfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
@@ -23,7 +23,7 @@ const data = [
       {
         name: 'Mich Froning',
         followers: '850k',
-        twitter: '@richfroning',
+        instagram: '@richfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
@@ -39,7 +39,7 @@ const data = [
       {
         name: 'Tich Froning',
         followers: '850k',
-        twitter: '@richfroning',
+        instagram: '@richfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
@@ -60,7 +60,7 @@ const data = [
       {
         name: 'Mich Froning',
         followers: '850k',
-        twitter: '@richfroning',
+        instagram: '@richfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
@@ -80,7 +80,7 @@ const data = [
       {
         name: 'Tich Froning',
         followers: '850k',
-        twitter: '@richfroning',
+        instagram: '@richfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
 
         videos: [
@@ -102,7 +102,7 @@ const data = [
       {
         name: 'Pich Froning',
         followers: '850k',
-        twitter: '@richfroning',
+        instagram: '@richfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
