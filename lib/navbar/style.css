@@ -14,6 +14,8 @@
   border-bottom: 1px solid #F0F0F0;
   padding-bottom: 2em;
   top: 0;
+  z-index: 10;
+  background-color: #ffffff;
 }
 
 .title {

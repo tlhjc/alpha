@@ -51,6 +51,54 @@ const data = [
             ]
           }
         ]
+      },
+      {
+        name: 'Lich Froning',
+        followers: '850k',
+        instagram: '@richfroning',
+        imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
+        videos: [
+          {
+            url: 'example-workout.com',
+            tags: [
+              'hypertrophy',
+              'shoulders',
+              'arms'
+            ]
+          }
+        ]
+      },
+      {
+        name: 'Zich Froning',
+        followers: '850k',
+        instagram: '@richfroning',
+        imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
+        videos: [
+          {
+            url: 'example-workout.com',
+            tags: [
+              'hypertrophy',
+              'shoulders',
+              'arms'
+            ]
+          }
+        ]
+      },
+      {
+        name: 'Kich Froning',
+        followers: '850k',
+        instagram: '@richfroning',
+        imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
+        videos: [
+          {
+            url: 'example-workout.com',
+            tags: [
+              'hypertrophy',
+              'shoulders',
+              'arms'
+            ]
+          }
+        ]
       }
     ]
   },

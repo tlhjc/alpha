@@ -23,7 +23,10 @@ componentWillMount () {
     return (
       <div className="methodContainer">
         <Navbar title={methodType} />
-        <Trainers trainers={trainers} />
+        <div className="trainerListWrapper">
+          <div className="methodSubtitle">PICK A TRAINER</div>
+          <Trainers trainers={trainers} />
+        </div>
       </div>
     );
   }

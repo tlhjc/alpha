@@ -32,6 +32,7 @@
 }
 
 .trainersContainer {
-  padding-top: 10em;
   text-align: center;
+  width: 75%;
+  margin: 0 auto;
 }
