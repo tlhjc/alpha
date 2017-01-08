@@ -1,18 +1,18 @@
+.instagramIcon {
+  width: 1em;
+  margin-bottom: 0.5em;
+}
+
 .textContainer {
   position: absolute;
-  top: 40%;
+  top: 30%;
   text-align: center;
   margin: 0 auto;
   left: 50%;
-  margin-left: -52.95px;
+  margin-left: -92.99px;
   color: #ffffff;
   display: none;
   font-size: 1.25em;
-}
-
-.trainerImage {
-  width: 20em;
-  border-radius: 10px;
 }
 
 .trainerContainer {
@@ -34,4 +34,22 @@
   text-align: center;
   width: 75%;
   margin: 0 auto;
+}
+
+.trainerFollowers {
+  font-size: 0.8em;
+  margin-bottom: 0.5em;
+}
+
+.trainerImage {
+  width: 20em;
+  border-radius: 10px;
+}
+
+.trainerInstagram {
+}
+
+.trainerName {
+  margin-bottom: 0.5em;
+  font-size: 1.3em;
 }
