@@ -1,0 +1,37 @@
+.textContainer {
+  position: absolute;
+  top: 45%;
+  text-align: center;
+  margin: 0 auto;
+  left: 50%;
+  margin-left: -52.95px;
+  color: #ffffff;
+  display: none;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.trainerImage {
+  width: 20em;
+  border-radius: 10px;
+}
+
+.trainerContainer {
+  position: relative;
+  display: inline-block;
+  margin: 0.5em;
+}
+
+.trainerContainer:hover .textContainer {
+  display: block;
+}
+
+.trainerContainer:hover .trainerImage {
+  -webkit-filter: grayscale(100%) brightness(0.40); /* Safari */
+  filter: grayscale(100%) brightness(0.40);
+}
+
+.trainersContainer {
+  padding-top: 10em;
+  text-align: center;
+}

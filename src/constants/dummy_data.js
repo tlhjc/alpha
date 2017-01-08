@@ -8,7 +8,7 @@ const data = [
         name: 'Rich Froning',
         followers: '850k',
         twitter: '@richfroning',
-        imageUrl: 'placeholder.com',
+        imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
             url: 'example-workout.com',
@@ -24,7 +24,7 @@ const data = [
         name: 'Mich Froning',
         followers: '850k',
         twitter: '@richfroning',
-        imageUrl: 'placeholder.com',
+        imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
             url: 'example-workout.com',
@@ -40,7 +40,7 @@ const data = [
         name: 'Tich Froning',
         followers: '850k',
         twitter: '@richfroning',
-        imageUrl: 'placeholder.com',
+        imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
             url: 'example-workout.com',
@@ -61,7 +61,7 @@ const data = [
         name: 'Mich Froning',
         followers: '850k',
         twitter: '@richfroning',
-        imageUrl: 'placeholder.com',
+        imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
             url: 'example-workout.com',
@@ -81,7 +81,7 @@ const data = [
         name: 'Tich Froning',
         followers: '850k',
         twitter: '@richfroning',
-        imageUrl: 'placeholder.com',
+        imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
 
         videos: [
           {
@@ -103,7 +103,7 @@ const data = [
         name: 'Pich Froning',
         followers: '850k',
         twitter: '@richfroning',
-        imageUrl: 'placeholder.com',
+        imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
             url: 'example-workout.com',

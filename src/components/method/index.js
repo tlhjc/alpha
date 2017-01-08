@@ -20,7 +20,6 @@ componentWillMount () {
   render() {
     const methodType = this.props.location.pathname.split('/')[2];
     const trainers = this.props.method[0] ? this.props.method[0].trainers : [];
-    console.log('-------', trainers);
     return (
       <div className="methodContainer">
         <Navbar title={methodType} />
