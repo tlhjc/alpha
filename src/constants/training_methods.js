@@ -1,14 +1,10 @@
 const trainingMethods = [
-  'BODYBUILDING',
+  'PHYSIQUE',
   'CALISTHENICS',
-  'STRETCH',
   'CROSSFIT',
   'HIIT',
-  'CARDIO',
-  'POWER',
-  'SPORT',
-  'PREHAB',
   'PHYSIO',
+  'FUNCTIONAL',
   'OLYMPIC',
   'YOGA',
 ];

@@ -24,7 +24,7 @@ componentWillMount () {
       <div className="methodContainer">
         <Navbar title={methodType} />
         <div className="trainerListWrapper">
-          <div className="methodSubtitle">PICK A TRAINER</div>
+          <div className="methodSubtitle">PICK AN ATHLETE</div>
           <Trainers trainers={trainers} />
         </div>
       </div>

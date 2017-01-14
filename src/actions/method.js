@@ -1,5 +1,5 @@
 import { SET_TRAINING_METHOD } from '../constants/action_types.js';
-import data from '../constants/dummy_data.js';
+import data from '../constants/method_data.js';
 
 export const setTrainingMethod = (methodData) => { return {type: SET_TRAINING_METHOD, methodData}; };
 

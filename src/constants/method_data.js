@@ -2,12 +2,12 @@
 
 const data = [
   {
-    name: 'bodybuilding',
+    name: 'physique',
     trainers: [
       {
         name: 'Rich Froning',
         followers: '850K',
-        instagram: '@richfroning',
+        instagram: 'richfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
@@ -23,7 +23,7 @@ const data = [
       {
         name: 'Mich Froning',
         followers: '850K',
-        instagram: '@richfroning',
+        instagram: 'michfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
@@ -39,7 +39,7 @@ const data = [
       {
         name: 'Tich Froning',
         followers: '850K',
-        instagram: '@richfroning',
+        instagram: 'tichfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
@@ -55,7 +55,7 @@ const data = [
       {
         name: 'Lich Froning',
         followers: '850K',
-        instagram: '@richfroning',
+        instagram: 'lichfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
@@ -71,7 +71,7 @@ const data = [
       {
         name: 'Zich Froning',
         followers: '850K',
-        instagram: '@richfroning',
+        instagram: 'zichfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
@@ -87,7 +87,7 @@ const data = [
       {
         name: 'Kich Froning',
         followers: '850K',
-        instagram: '@richfroning',
+        instagram: 'kichfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
@@ -108,7 +108,7 @@ const data = [
       {
         name: 'Mich Froning',
         followers: '850K',
-        instagram: '@richfroning',
+        instagram: 'michfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {
@@ -126,9 +126,9 @@ const data = [
     name: 'olympic',
     trainers: [
       {
-        name: 'Tich Froning',
+        name: 'Pich Froning',
         followers: '850K',
-        instagram: '@richfroning',
+        instagram: 'pichfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
 
         videos: [
@@ -145,12 +145,12 @@ const data = [
     ]
   },
   {
-    name: 'stretch',
+    name: 'yoga',
     trainers: [
       {
-        name: 'Pich Froning',
+        name: 'Wich Froning',
         followers: '850K',
-        instagram: '@richfroning',
+        instagram: 'wichfroning',
         imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
         videos: [
           {

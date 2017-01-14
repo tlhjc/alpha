@@ -26,7 +26,7 @@ export const initialState = {
   }
 };
 
-export default function home (state = initialState, action) {
+export default function method (state = initialState, action) {
   switch (action.type) {
     case SET_TRAINING_METHOD:
       return {

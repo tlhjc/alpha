@@ -12,6 +12,7 @@ import {
 import App from '../components/app.js';
 import Home from './home.js';
 import Method from './method.js';
+import Trainer from './trainer.js';
 
 import configureStore from '../store/configure_store.js';
 const store = configureStore();
@@ -26,6 +27,7 @@ export default class Root extends Component {
             <IndexRoute component={Home} />
             <Route path='home' component={Home} />
             <Route path='method/:method' component={Method} />
+            <Route path='athlete/:athlete' component={Trainer} />
           </Route>
         </Router>
       </Provider>
