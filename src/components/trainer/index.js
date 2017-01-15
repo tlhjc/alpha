@@ -17,12 +17,12 @@ export default class Trainer extends Component {
     this.props.getTrainerData(trainer);
   }
   render() {
-    const trainerData = this.props.trainer;
+    const trainerData = this.props.trainer[0] || [];
+    const trainerName = trainerData.name ? trainerData.name : '';
     const videos = this.props.trainer[0] ? this.props.trainer[0].videos : [];
-    console.log('---------', videos, trainerData);
     return (
       <div>
-        <Navbar title={trainerData.name} />
+        <Navbar title={trainerName} />
       </div>
     );
   }
