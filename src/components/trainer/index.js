@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import Navbar from '../../../lib/navbar';
+import VideoList from '../../../lib/video_list';
 
 import './style.css';
 
@@ -23,6 +24,7 @@ export default class Trainer extends Component {
     return (
       <div>
         <Navbar title={trainerName} />
+        <VideoList videos={videos} />
       </div>
     );
   }

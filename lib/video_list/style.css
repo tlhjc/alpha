@@ -1,0 +1,16 @@
+.videoItemContainer {
+  width: 22em;
+  display: inline-block;
+  margin: 0.5em;
+}
+
+.videoListContainer {
+  padding-top: 10em;
+  text-align: center;
+  max-width: 80em;
+  margin: 0 auto;
+}
+
+.videoPlayer {
+  border-radius: 10px;
+}

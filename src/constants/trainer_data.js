@@ -8,7 +8,47 @@ const trainerData = [
     imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
     videos: [
       {
-        url: 'example-workout.com',
+        url: 'https://scontent-lhr3-1.cdninstagram.com/t50.2886-16/15819369_1832280880347253_947945642104193024_n.mp4',
+        tags: [
+          'hypertrophy',
+          'shoulders',
+          'arms'
+        ]
+      },
+      {
+        url: 'https://scontent-lhr3-1.cdninstagram.com/t50.2886-16/15819369_1832280880347253_947945642104193024_n.mp4',
+        tags: [
+          'hypertrophy',
+          'shoulders',
+          'arms'
+        ]
+      },
+      {
+        url: 'https://scontent-lhr3-1.cdninstagram.com/t50.2886-16/15819369_1832280880347253_947945642104193024_n.mp4',
+        tags: [
+          'hypertrophy',
+          'shoulders',
+          'arms'
+        ]
+      },
+      {
+        url: 'https://scontent-lhr3-1.cdninstagram.com/t50.2886-16/15819369_1832280880347253_947945642104193024_n.mp4',
+        tags: [
+          'hypertrophy',
+          'shoulders',
+          'arms'
+        ]
+      },
+      {
+        url: 'https://scontent-lhr3-1.cdninstagram.com/t50.2886-16/15819369_1832280880347253_947945642104193024_n.mp4',
+        tags: [
+          'hypertrophy',
+          'shoulders',
+          'arms'
+        ]
+      },
+      {
+        url: 'https://scontent-lhr3-1.cdninstagram.com/t50.2886-16/15819369_1832280880347253_947945642104193024_n.mp4',
         tags: [
           'hypertrophy',
           'shoulders',
@@ -24,7 +64,7 @@ const trainerData = [
     imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
     videos: [
       {
-        url: 'example-workout.com',
+        url: 'https://scontent-lhr3-1.cdninstagram.com/t50.2886-16/15819369_1832280880347253_947945642104193024_n.mp4',
         tags: [
           'hypertrophy',
           'shoulders',
@@ -40,7 +80,7 @@ const trainerData = [
     imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
     videos: [
       {
-        url: 'example-workout.com',
+        url: 'https://scontent-lhr3-1.cdninstagram.com/t50.2886-16/15819369_1832280880347253_947945642104193024_n.mp4',
         tags: [
           'hypertrophy',
           'shoulders',
@@ -56,7 +96,7 @@ const trainerData = [
     imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
     videos: [
       {
-        url: 'example-workout.com',
+        url: 'https://scontent-lhr3-1.cdninstagram.com/t50.2886-16/15819369_1832280880347253_947945642104193024_n.mp4',
         tags: [
           'hypertrophy',
           'shoulders',
@@ -72,7 +112,7 @@ const trainerData = [
     imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
     videos: [
       {
-        url: 'example-workout.com',
+        url: 'https://scontent-lhr3-1.cdninstagram.com/t50.2886-16/15819369_1832280880347253_947945642104193024_n.mp4',
         tags: [
           'hypertrophy',
           'shoulders',
@@ -88,7 +128,7 @@ const trainerData = [
     imageUrl: 'https://cloud.githubusercontent.com/assets/12450298/21749008/fb199322-d58b-11e6-8a59-482f7cc7ef42.jpg',
     videos: [
       {
-        url: 'example-workout.com',
+        url: 'https://scontent-lhr3-1.cdninstagram.com/t50.2886-16/15819369_1832280880347253_947945642104193024_n.mp4',
         tags: [
           'hypertrophy',
           'shoulders',
