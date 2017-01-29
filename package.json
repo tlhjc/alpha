@@ -8,7 +8,7 @@
     "dev:build": "webpack --config ./webpack.development.config.js --progress --colors",
     "dev:start": "webpack-dev-server --hot --inline --progress --colors --config ./webpack.development.config.js",
     "build": "webpack --config ./webpack.config.js --progress --colors",
-    "start": "node lib/index.js"
+    "start": "npm run build && node lib/index.js"
   },
   "repository": {
     "type": "git",
@@ -21,10 +21,13 @@
   },
   "homepage": "https://github.com/tlhjc/alpha#readme",
   "dependencies": {
+    "env2": "^2.1.1",
     "file-loader": "^0.9.0",
     "hapi": "^16.0.1",
+    "hapi-postgres-connection": "^6.1.0",
     "history": "^4.5.0",
     "inert": "^4.0.3",
+    "isomorphic-fetch": "^2.2.1",
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
     "react-redux": "^5.0.1",
@@ -32,7 +35,8 @@
     "react-router-redux": "^4.0.7",
     "redux": "^3.6.0",
     "redux-logger": "^2.7.4",
-    "redux-thunk": "^2.1.0"
+    "redux-thunk": "^2.1.0",
+    "request": "^2.79.0"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
