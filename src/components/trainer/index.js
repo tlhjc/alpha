@@ -21,6 +21,7 @@ export default class Trainer extends Component {
     const trainerData = this.props.trainer[0] || [];
     const trainerName = trainerData.name ? trainerData.name : '';
     const videos = this.props.trainer[0] ? this.props.trainer[0].videos : [];
+    console.log(videos);
     return (
       <div>
         <Navbar title={trainerName} />

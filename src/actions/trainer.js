@@ -21,7 +21,7 @@ export const getTrainerData = (trainer) => {
     const trainerData = data.filter(data => {
       return data.instagram === trainer;
     });
-    console.log('*******', trainerData);
+    console.log(trainerData);
     dispatch(setTrainer(trainerData));
   }
 };
