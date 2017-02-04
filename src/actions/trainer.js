@@ -9,7 +9,6 @@ export const getTrainerData = (trainer) => {
     fetch('/trainer')
       .then(function (response) {
 
-        console.log('response', response);
         if (response.status >= 400) {
            throw new Error("Bad response from server");
         }

@@ -1,0 +1,16 @@
+CREATE TABLE IF NOT EXISTS trainers (
+  id SERIAL PRIMARY KEY,
+  first_name VARCHAR(60) DEFAULT NULL,
+  last_name VARCHAR(60) DEFAULT NULL,
+  followers VARCHAR(60) DEFAULT NULL,
+  instagram_handle VARCHAR(60) DEFAULT NULL,
+  instagram_id VARCHAR(60) DEFAULT NULL,
+  profile_image_url VARCHAR(200) DEFAULT NULL
+);
+
+CREATE TABLE IF NOT EXISTS videos (
+  id SERIAL PRIMARY KEY,
+  video_url VARCHAR(200) DEFAULT NULL,
+  trainer_id INTEGER DEFAULT NULL REFERENCES trainers(id) ON DELETE CASCADE,
+  tags text[]
+);
