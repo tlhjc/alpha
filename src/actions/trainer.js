@@ -6,7 +6,7 @@ export const setTrainer = (trainerData) => { return {type: SET_TRAINER, trainerD
 
 export const getTrainerData = (trainer) => {
   return (dispatch) => {
-    fetch('/trainer?id=1')
+    fetch(`/trainer?handle=${trainer}`)
       .then(function (response) {
 
         if (response.status >= 400) {

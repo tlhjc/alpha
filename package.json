@@ -9,7 +9,8 @@
     "dev:start": "webpack-dev-server --hot --inline --progress --colors --config ./webpack.development.config.js",
     "build": "webpack --config ./webpack.config.js --progress --colors",
     "start": "npm run build && node lib/index.js",
-    "create:tables": "node lib/setup/create_tables.js"
+    "create:tables": "node lib/setup/create_tables.js",
+    "load:trainers": "node lib/setup/load_trainers.js"
   },
   "repository": {
     "type": "git",
